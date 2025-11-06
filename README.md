@@ -9,8 +9,11 @@
 <table border="0" cellspacing="0" cellpadding="0">
 <tr>
 <td width="52%" valign="top">
+<div align="center"> 
 
-### 🛠️ Skills & Technologies
+  ### 🛠️ Skills & Technologies 
+</div>
+
 
 **Languages**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
