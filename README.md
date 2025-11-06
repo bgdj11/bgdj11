@@ -64,7 +64,7 @@
 
 ### 📊 GitHub Statistics
 
-<img src="https://streak-stats.demolab.com?user=bgdj11&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" width="95%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=bgdj11&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="95%"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bgdj11&layout=compact&langs_count=8&theme=tokyonight&hide=Jupyter%20Notebook&hide_border=true" alt="Top Languages" width="95%"/>
 
