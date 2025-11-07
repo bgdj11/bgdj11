@@ -92,7 +92,7 @@
 
 Developing an intelligent agent that combines **neurosymbolic reasoning** with 
 **computer vision** to answer complex questions about images and generate new 
-content through natural language interaction—all running locally without external APIs.
+content through natural language interaction - all running locally without external APIs.
 
 <sub>📊 Training on CLEVR & GQA datasets • 🎯 Target: 65%+ accuracy on detected scene graphs</sub>
 
