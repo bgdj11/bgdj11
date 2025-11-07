@@ -85,16 +85,16 @@
 <td align="center" width="800">
 <br>
 
-### 🎓 Currently working on Bachelor's Thesis
+### 🎓 Currently Working On: Bachelor's Thesis
 <sub>▸ Computer Science & Engineering</sub>
 
-**Multimodal Chatbot with Image Generation**
+**Multimodal AI Agent for Visual Question Answering & Image Generation**
 
-Building an intelligent conversational agent that transforms user prompts into 
-custom images through natural dialogue, featuring persistent session memory 
-and context-aware interactions.
+Developing an intelligent agent that combines **neurosymbolic reasoning** with 
+**computer vision** to answer complex questions about images and generate new 
+content through natural language interaction—all running locally without external APIs.
 
-**Key Technologies:** NLP • Generative AI • Deep Learning • Session Management
+<sub>📊 Training on CLEVR & GQA datasets • 🎯 Target: 65%+ accuracy on detected scene graphs</sub>
 
 <br>
 
