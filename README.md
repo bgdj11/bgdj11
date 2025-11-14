@@ -11,7 +11,7 @@
 <td width="52%" valign="top">
 <div align="center"> 
 
-  ### 🛠️ Skills & Technologies 
+  ### Skills & Technologies 
 </div>
 
 
@@ -22,19 +22,14 @@
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 **Data / ML / AI**  
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=flat-square&logo=python&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![Rasa](https://img.shields.io/badge/-Rasa-5A17EE?style=flat-square&logo=rasa&logoColor=white)
 
@@ -47,7 +42,6 @@
 
 **Platforms / DevOps**  
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Traefik](https://img.shields.io/badge/-Traefik-24A1C1?style=flat-square&logo=traefikproxy&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
 
 **Observability**  
@@ -68,7 +62,7 @@
 </td>
 <td width="48%" valign="top" align="center">
 
-### 📊 GitHub Statistics
+### GitHub Statistics
 
 <img src="https://github-readme-stats.vercel.app/api?username=bgdj11&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="95%"/>
 
@@ -94,7 +88,7 @@ Developing an intelligent agent that combines **neurosymbolic reasoning** with
 **computer vision** to answer complex questions about images and generate new 
 content through natural language interaction - all running locally without external APIs.
 
-<sub>📊 Training on CLEVR & GQA datasets • 🎯 Target: 65%+ accuracy on detected scene graphs</sub>
+<sub>Training on CLEVR & GQA datasets • Target: 65%+ accuracy on detected scene graphs</sub>
 
 <br>
 
