@@ -63,10 +63,8 @@
 <td width="48%" valign="top" align="center">
 
 ### GitHub Statistics
-<img src="https://github-readme-stats.vercel.app/api?username=bgdj11&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=21600&v=1" width="95%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bgdj11&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=21600&v=1" width="95%"/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=bgdj11&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="95%"/> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bgdj11&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" width="95%"/>
 
 </td>
 </tr>
