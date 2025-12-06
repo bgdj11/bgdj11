@@ -6,6 +6,8 @@
 <p align="center"><b>Full-stack engineering by day, ML/NLP and generative art by night.</b></p>
 <p align="center"><i>Building everything from toys to tools.</i></p>
 
+
+<div align="center">
 <table border="0" cellspacing="0" cellpadding="0">
 <tr>
 <td width="52%" valign="top">
@@ -70,6 +72,7 @@
 </td>
 </tr>
 </table>
+</div>
 
 <div align="center">
 
