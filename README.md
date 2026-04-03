@@ -88,7 +88,7 @@
 <td align="center" width="800">
 <br>
 
-### 🎓 Currently Working On: Bachelor's Thesis
+###  Currently Working On: Bachelor's Thesis
 <sub>▸ Computer Science & Engineering</sub>
 
 **Multimodal AI Agent for Visual Question Answering & Image Generation**
@@ -120,7 +120,7 @@ content through natural language interaction - all running locally without exter
 &nbsp;&nbsp;
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bgdj11/)
 
-<sub>💼 Open to collaboration and interesting projects!</sub>
+<sub> Open to collaboration and interesting projects!</sub>
 
 </td>
 </tr>
