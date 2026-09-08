@@ -83,27 +83,19 @@
 
 <div align="center">
 
-<table border="0" cellspacing="0" cellpadding="20">
-<tr>
-<td align="center" width="800">
-<br>
+<table border="0" cellspacing="0" cellpadding="20"> <tr> <td align="center" width="800"> <br>
 
-###  Currently Working On: Bachelor's Thesis
-<sub>▸ Computer Science & Engineering</sub>
+👾 Currently Exploring 👾
 
-**Multimodal AI Agent for Visual Question Answering & Image Generation**
+<sub>▸ Game Development & Computer Graphics </sub>
 
-Developing an intelligent agent that combines **neurosymbolic reasoning** with 
-**computer vision** to answer complex questions about images and generate new 
-content through natural language interaction - all running locally without external APIs.
+Learning Godot and experimenting with small game projects,
+real-time graphics, and different computer graphics techniques.
 
-<sub>Training on CLEVR & GQA datasets</sub>
 
 <br>
 
-</td>
-</tr>
-</table>
+</td> </tr> </table>
 
 </div>
 
