@@ -61,6 +61,7 @@
 ![OpenGL](https://img.shields.io/badge/-OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white)
 ![SFML](https://img.shields.io/badge/-SFML-8CC445?style=flat-square&logo=sfml&logoColor=white)
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)
+![Godot](https://img.shields.io/badge/-Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white)
 
 </td>
 <td width="48%" valign="top" align="center">
